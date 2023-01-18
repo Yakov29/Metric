@@ -1,0 +1,36 @@
+.press{
+    background: #3E5C50;
+border-radius: 0px;
+padding-top: 28px;
+padding-bottom: 38px;
+}
+
+.press .container{
+    text-align: center;
+}
+
+.press__name{
+    font-weight: 400;
+font-size: 15px;
+line-height: 1.46;
+color: rgba(255, 255, 255, 0.31);
+}
+
+.press__list{
+    display: flex;
+    justify-content: center;
+    gap: 37px;
+}
+
+.press__item{
+    align-items: center;
+    height: 56px;
+    padding-top: 15px;
+    display: block;
+}
+
+.press__svg{
+    fill: #FFFFFF;
+    align-items: center;
+    display: block;
+}

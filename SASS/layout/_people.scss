@@ -1,0 +1,45 @@
+.people {
+  justify-content: center;
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.people__name {
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 36px;
+  text-align: center;
+  color: #333333;
+}
+
+.people__description {
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 31px;
+  text-align: center;
+  color: #333333;
+  margin-top: 45px;
+}
+
+
+.people__img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 22px;
+}
+
+.people__text{
+    font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+color: #333333;
+}
+
+.people__text:first-child{
+    margin-top: 12px;
+}

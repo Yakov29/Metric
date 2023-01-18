@@ -1,0 +1,81 @@
+.plans{
+    padding-top: 69px;
+    padding-bottom: 71px;
+    text-align: center;
+    background: #DDE7ED;
+border-radius: 0px;
+}
+
+.plans__name{
+    font-weight: 400;
+font-size: 29px;
+line-height: 36px;
+text-align: center;
+color: #333333;
+}
+
+.plans__description{
+    font-weight: 400;
+font-size: 19px;
+line-height: 22px;
+text-align: center;
+color: #333333;
+margin-top: 10px;
+}
+
+.plans__list{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 68px;
+}
+
+.plans__item{
+    width: 220px;
+    text-align: left;
+    padding-left: 17px;
+    padding-top: 16px;
+    background: #FFFFFF;
+    padding-bottom: 17px;
+}
+
+.plans__button{
+    background: #000000;
+box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.12);
+border-radius: 3px;
+width: 186px;
+height: 42px;
+border: none;
+font-family: 'Roboto Slab';
+font-weight: 400;
+font-size: 16px;
+line-height: 1.37;
+text-align: center;
+color: #FFFFFF;
+margin-top: 263px;
+}
+
+.plans__name{
+    font-weight: 400;
+font-size: 22px;
+line-height: 30px;
+color: #2B2B2B;
+}
+
+.plans__text{
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.37;
+text-align: center;
+color: #333333;
+margin-top: 20px;
+}
+
+.plans__link{
+    font-weight: 400;
+font-size: 15px;
+line-height: 1.46;
+text-align: center;
+color: #489FD9;
+
+}

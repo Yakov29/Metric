@@ -1,0 +1,102 @@
+footer{
+    padding-top: 41px;
+    background: #2B2C2E;
+border-radius: 0px;
+
+}
+
+footer .container{
+    display: flex;
+    padding-bottom: 42px;
+}
+
+.footer__div{
+    display: block;
+    width: 480px;
+}
+
+.footer__logo{
+    font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 0.81;
+color: #E6EAED;
+}
+
+.footer__description{
+    font-weight: 400;
+font-size: 15px;
+line-height: 1.46;
+color: #939596;
+margin-top: 25px;
+}
+
+.footer__line{
+    height: 40px;
+    width: 322px;
+    background: 50% #E8E8E8 ;
+    margin-top: 15px;
+}
+
+.footer__svg__list{
+    display: flex;
+    gap: 11px;
+    margin-top: 18px;
+}
+
+.footer__svg{
+    fill: #E6EAED;
+}
+
+.footer__list{
+    display: flex;
+}
+
+.footer__item{
+    width: 159.98px;
+}
+
+.footer__item__title{
+    font-family: 'Roboto Condensed';
+font-weight: 400;
+font-size: 17px;
+line-height: 1.41;
+text-transform: uppercase;
+color: #E4E8EB;
+
+}
+
+.item__list{
+    margin-top: 11px;
+    gap: 5px;
+}
+
+.item__text{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.41px;
+    color: #939596;
+    
+}
+
+.confirmation{
+    width: 100%;
+    background: #1C1D1F;
+border-radius: 0px;
+height: 60px;
+padding-top: 19px;
+}
+
+.confirmation .container{
+    text-align: left;
+    padding-bottom: 0;
+}
+
+.confirmation__text{
+    font-weight: 400;
+font-size: 13px;
+line-height: 1.69;
+color: #939596;
+
+}
