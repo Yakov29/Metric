@@ -10,6 +10,7 @@
 }
 .device .container:first-child{
     display: block;
+    
 }
 
 .device__box{
@@ -59,4 +60,21 @@ font-size: 21px;
 line-height: 1.42;
 color: #333333;
 margin-bottom: 17px;
+}
+
+.device__name{
+    font-weight: 400;
+font-size: 29px;
+line-height: 1.24;
+text-align: center;
+color: #333333;
+}
+
+.device__description{
+    font-weight: 400;
+font-size: 19px;
+line-height: 1.15;
+text-align: center;
+color: #333333;
+margin-bottom: 68px;
 }
